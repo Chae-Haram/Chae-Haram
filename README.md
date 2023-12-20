@@ -1,4 +1,4 @@
-## 👋 안녕하세요, 이병길입니다 👋
+## 👋 안녕하세요, 채하람입니다 👋
 
 <a href="https://blog.naver.com/donny1848" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://alder-talon-aab.notion.site/SW-7336ab2bec9740239e6368c2dc46fc9a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
@@ -7,11 +7,11 @@
 
 저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
 
-🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
+🌱현재 [JPA 그룹 스터디](https://github.com/Chae-Haram/JPA_Study)를 진행하고 있습니다.
 
 
 🔭가장 최근에는
-<a href="https://github.com/NetRoomManager/NetroomManager" target="_blank">피씨방관리프로그램</a> 
+<a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 
 프로젝트를 진행했습니다.
 
 새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
